@@ -44,7 +44,7 @@ class GameLifeIntegrationTest extends Specification{
           game.skip()
     }
 
-    def "esto no revienta"(){
+    def "Se verifica que la primeria linea ha evolucionado correctamente"(){
 
         expect:
         game.container.cells.get(id).isAlive() == alive
@@ -56,6 +56,11 @@ class GameLifeIntegrationTest extends Specification{
            3  | true
            4  | false
            5  | false
+           6  | false
+           7  | false
+           8  | true
+           9  | true
+           10 | false
 
     }
 

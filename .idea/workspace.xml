@@ -65,7 +65,7 @@
       <file leaf-file-name="GameLifeIntegrationTest.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/GameLifeIntegrationTest.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="21" selection-start="1940" selection-end="1940" vertical-scroll-proportion="0.71153843">
+            <state line="52" column="20" selection-start="1877" selection-end="1877" vertical-scroll-proportion="0.42307693">
               <folding />
             </state>
           </provider>
@@ -384,30 +384,7 @@
       <recent name="org.egi.game.rules.gameoflife" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GameLifeIntegrationTest.esto no revienta">
-    <configuration default="false" name="CellContainerTest.una regla que termina con sobrevivir si esta muerta actualiza la celula a viva papa la proxima evol" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" />
-      <module name="LifeGame" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CellContainerTest" />
-      <option name="METHOD_NAME" value="una regla que termina con sobrevivir si esta muerta actualiza la celula a viva papa la proxima evol" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.GameLifeIntegrationTest.Se verifica que la primeria linea ha evolucionado correctamente">
     <configuration default="false" name="All in LifeGame" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" />
       <module name="LifeGame" />
@@ -485,6 +462,29 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="GameLifeIntegrationTest" />
       <option name="METHOD_NAME" value="esto no revienta" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GameLifeIntegrationTest.Se verifica que la primeria linea ha evolucionado correctamente" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" />
+      <module name="LifeGame" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GameLifeIntegrationTest" />
+      <option name="METHOD_NAME" value="Se verifica que la primeria linea ha evolucionado correctamente" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -605,11 +605,11 @@
       </method>
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CellContainerTest.una regla que termina con sobrevivir si esta muerta actualiza la celula a viva papa la proxima evol" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.All in LifeGame" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.GameLifeRulesTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.GameLifeRulesTest.si el numero de vecinas vivas es menor que dos la celula pasa muerta" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.GameLifeIntegrationTest.esto no revienta" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.All in LifeGame" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.GameLifeRulesTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.GameLifeRulesTest.si el numero de vecinas vivas es menor que dos la celula pasa muerta" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.GameLifeIntegrationTest.esto no revienta" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.GameLifeIntegrationTest.Se verifica que la primeria linea ha evolucionado correctamente" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -643,7 +643,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="24" width="1280" height="752" extended-state="4" />
+    <frame x="0" y="24" width="1280" height="752" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -823,7 +823,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/GameLifeIntegrationTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="21" selection-start="1940" selection-end="1940" vertical-scroll-proportion="0.71153843">
+        <state line="52" column="20" selection-start="1877" selection-end="1877" vertical-scroll-proportion="0.42307693">
           <folding />
         </state>
       </provider>
