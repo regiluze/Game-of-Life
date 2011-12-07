@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spock">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Dropbox/Public/sharedRepo/erlea/lib/test/spock-core-0.4-groovy-1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
